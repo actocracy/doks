@@ -1,11 +1,11 @@
 [[main]]
-  name = "Knowledge Base"
-  url = "/wiki/getting-started/project-overview/"
+  name = "Base de Conhecimento"
+  url = "/es/wiki/getting-started/project-overview/"
   weight = 10
 
 [[main]]
   name = "DevBlog"
-  url = "/blog/"
+  url = "/es/blog/"
   weight = 30
 
 [[social]]
@@ -21,11 +21,11 @@
   weight = 20
 
 [[footer]]
-  name = "Privacy Policy"
-  url = "/privacy/"
+  name = "Política de Privacidade"
+  url = "/es/privacy/"
   weight = 10
 
 [[footer]]
-  name = "User Agreement"
-  url = "/agreement/"
+  name = "Acordo do Usuário"
+  url = "/es/agreement/"
   weight = 20

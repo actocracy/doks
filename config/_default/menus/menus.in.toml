@@ -1,11 +1,11 @@
 [[main]]
-  name = "Knowledge Base"
-  url = "/wiki/getting-started/project-overview/"
+  name = "ज्ञान का आधार"
+  url = "/in/wiki/getting-started/project-overview/"
   weight = 10
 
 [[main]]
-  name = "DevBlog"
-  url = "/blog/"
+  name = "डेवब्लॉग"
+  url = "/in/blog/"
   weight = 30
 
 [[social]]
@@ -21,11 +21,11 @@
   weight = 20
 
 [[footer]]
-  name = "Privacy Policy"
-  url = "/privacy/"
+  name = "गोपनीयता नीति"
+  url = "/in/privacy/"
   weight = 10
 
 [[footer]]
-  name = "User Agreement"
-  url = "/agreement/"
+  name = "उपयोगकर्ता समझौता"
+  url = "/in/agreement/"
   weight = 20
