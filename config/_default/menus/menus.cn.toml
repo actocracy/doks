@@ -1,11 +1,11 @@
 [[main]]
   name = "知识库"
-  url = "/cn/wiki/getting-started/project-overview/"
+  url = "https://wiki.actocracy.com/cn/wiki/getting-started/project-overview/"
   weight = 10
 
 [[main]]
   name = "开发者博客"
-  url = "/cn/blog/"
+  url = "https://wiki.actocracy.com/cn/blog/"
   weight = 30
 
 [[social]]
@@ -22,10 +22,10 @@
 
 [[footer]]
   name = "隐私政策"
-  url = "/cn/privacy/"
+  url = "https://wiki.actocracy.com/cn/privacy/"
   weight = 10
 
 [[footer]]
   name = "用户协议"
-  url = "/cn/agreement/"
+  url = "https://wiki.actocracy.com/cn/agreement/"
   weight = 20

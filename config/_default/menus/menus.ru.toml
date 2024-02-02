@@ -1,11 +1,11 @@
 [[main]]
   name = "База Знаний"
-  url = "/ru/wiki/getting-started/project-overview/"
+  url = "https://wiki.actocracy.com/ru/wiki/getting-started/project-overview/"
   weight = 10
 
 [[main]]
   name = "ДевБлог"
-  url = "/ru/blog/"
+  url = "https://wiki.actocracy.com/ru/blog/"
   weight = 30
 
 [[social]]
@@ -22,10 +22,10 @@
 
 [[footer]]
   name = "Политика конфиденциальности"
-  url = "/ru/privacy/"
+  url = "https://wiki.actocracy.com/ru/privacy/"
   weight = 10
 
 [[footer]]
   name = "Пользовательское соглашение"
-  url = "/ru/agreement/"
+  url = "https://wiki.actocracy.com/ru/agreement/"
   weight = 20

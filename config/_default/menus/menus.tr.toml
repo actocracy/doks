@@ -1,11 +1,11 @@
 [[main]]
   name = "Bilgi Tabanı"
-  url = "/tr/wiki/getting-started/project-overview/"
+  url = "https://wiki.actocracy.com/tr/wiki/getting-started/project-overview/"
   weight = 10
 
 [[main]]
   name = "DevBlog"
-  url = "/tr/blog/"
+  url = "https://wiki.actocracy.com/tr/blog/"
   weight = 30
 
 [[social]]
@@ -22,10 +22,10 @@
 
 [[footer]]
   name = "Gizlilik Politikası"
-  url = "/tr/privacy/"
+  url = "https://wiki.actocracy.com/tr/privacy/"
   weight = 10
 
 [[footer]]
   name = "Kullanıcı Sözleşmesi"
-  url = "/tr/agreement/"
+  url = "https://wiki.actocracy.com/tr/agreement/"
   weight = 20

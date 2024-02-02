@@ -1,5 +1,5 @@
 ---
-title: "Docs"
+title: "Knowledge Base"
 description: ""
 summary: ""
 date: 2024-01-01T00:00:00+00:00
@@ -8,7 +8,7 @@ draft: false
 menu:
   docs:
     parent: ""
-    identifier: "docs-9602b15bad02600f3883f55e2ade6b81"
+    identifier: "wiki-9602b15bad02600f3883f55e2ade6b81"
 weight: 999
 toc: true
 seo:
