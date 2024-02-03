@@ -1,12 +1,24 @@
 [[main]]
   name = "Knowledge Base"
-  url = "/wiki/getting-started/project-overview/"
+  url = "/docs/basics/project-overview/"
   weight = 10
 
 [[main]]
   name = "DevBlog"
   url = "/blog/"
   weight = 30
+
+[[main]]
+  name = "Vesting Schedule"
+  url = "https://actocracy.com/docs/tokens.pdf"
+  weight = 40
+  identifier = "vesting-schedule"
+
+[[main]]
+  name = "WebApp"
+  url = "https://actocracy.xyz/i/1"
+  weight = 50
+  identifier = "actocracy-app"
 
 [[social]]
   name = "Twitter"

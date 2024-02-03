@@ -6,7 +6,6 @@
     languageISO = "EN"
     languageTag = "en-US"
     footer = 'Dive into <a class="text-muted" href="https://actocracy.xyz/" target="_blank">Actocracy Ecosystem</a>'
-    #alertText = '<a class="alert-link stretched-link fw-normal" href="/blog/example-post/">Doks version 1.0 just shipped!</a>'
 
 [cn]
   languageName = "中文"
@@ -16,7 +15,6 @@
     languageISO = "ZH"
     languageTag = "zh-CN"
     #footer = 'Gebaut mit <a class="text-muted" href="https://gethyas.com/">Hyas</a>'
-    #alertText = 'Neue Version ist da! <a class="alert-link stretched-link" href="https://getdoks.org/blog/doks-v0.5/">Doks v0.5</a>'
 
 [es]
   languageName = "Español"
@@ -26,7 +24,6 @@
     languageISO = "ES"
     languageTag = "es-BR"
     footer = 'Mergulhe no <a class="text-muted" href="https://actocracy.xyz/" target="_blank">Ecossistema Actocracy</a>'
-    #alertText = 'Neue Version ist da! <a class="alert-link stretched-link" href="https://getdoks.org/blog/doks-v0.5/">Doks v0.5</a>'
 
 [ru]
   languageName = "Русский"
@@ -36,11 +33,6 @@
     languageISO = "RU"
     languageTag = "ru-RU"
     description = "Источник знаний по Актократии"
-    #titleAddition = "Modern documentatie-thema"
-    #description = "Doks is een Hugo-thema waarmee je moderne documentatie-websites kunt bouwen die veilig, snel en klaar voor SEO zijn — standaard."
-    #titleHome = "Doks thema"
-    footer = 'Погрузитесь в <a class="text-muted" href="https://actocracy.xyz/" target="_blank">Экосистему Actocracy</a>'
-    #alertText = 'Introductie van het Doks-kinderthema, verschillende DX + UX-updates en meer! <a class="alert-link stretched-link" href="https://getdoks.org/blog/doks-v0.2/">Bekijk Doks v0.2</a>'
 
 [ar]
   languageName = "اَلْعَرَبِيَّة"
@@ -50,7 +42,6 @@
     languageISO = "AR"
     languageTag = "ar-SA"
     footer = 'انغمس في <a class="text-muted" href="https://actocracy.xyz/" target="_blank">نظام Actocracy البيئي</a>'
-    #alertText = 'Neue Version ist da! <a class="alert-link stretched-link" href="https://getdoks.org/blog/doks-v0.5/">Doks v0.5</a>'
 
 [tr]
   languageName = "Türkçe"
@@ -60,7 +51,6 @@
     languageISO = "TR"
     languageTag = "tr-TR"
     footer = '<a class="text-muted" href="https://actocracy.xyz/" target="_blank">Actocracy Ekosistemine</a> Dalın'
-    #alertText = 'Neue Version ist da! <a class="alert-link stretched-link" href="https://getdoks.org/blog/doks-v0.5/">Doks v0.5</a>'
 
 [in]
   languageName = "हिंदी"
@@ -70,4 +60,3 @@
     languageISO = "IN"
     languageTag = "hi-IN"
     footer = '<a class="text-muted" href="https://actocracy.xyz/" target="_blank">Actocracy पारिस्थितिकी तंत्र</a> में गोता लगाएँ'
-    #alertText = 'Neue Version ist da! <a class="alert-link stretched-link" href="https://getdoks.org/blog/doks-v0.5/">Doks v0.5</a>'

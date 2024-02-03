@@ -1,13 +1,26 @@
 # Hugo
-title = "Actocracy Wiki"
-description = "The Source of Truth for Actocracy Ecosystem"
+title = "Act-o-cracy wiki"
+description = "Congrats on reaching us!"
 images = ["cover.png"]
 
 # mainSections
-mainSections = ["wiki"]
+mainSections = ["docs"]
+
+# Global alert
+alertText = '<a class="alert-link stretched-link fw-normal" href="https://actocracy.com/docs/pitch.pdf" target="_blank">Check out and Share the Platform Pitchdeck. Token sale Unlocked!</a>'
+
+# Footer
+footer = "Brought to you by <a class=\"text-muted\" href=\"https://gethyas.com/\">Hyas</a>"
 
 [social]
   twitter = "getdoks"
+
+# Add-ons
+[add_ons]
+  carbonAds = false # false (default) or true
+  docSearch = true # false (default) or true
+  plausibleDomain = "wiki.actocracy.com" # "example.com" (default)
+  keila = false # false (default) or true
 
 # Doks (@hyas/doks-core)
 [doks]
@@ -17,15 +30,15 @@ mainSections = ["wiki"]
 
   # Navbar
   navbarSticky = true # true (default) or false
-  containerBreakpoint = "lg" # "", "sm", "md", "lg" (default), "xl", "xxl", or "fluid"
+  containerBreakpoint = "fluid" # "", "sm", "md", "lg" (default), "xl", "xxl", or "fluid"
 
   ## Button
   navBarButton = false # false (default) or true
-  navBarButtonurl = "/docs/prologue/introduction/"
-  navBarButtonText = "Get started"
+  navBarButtonUrl = "https://gethyas.com/"
+  navBarButtonText = "Visit gethyas.com"
 
   # FlexSearch
-  flexSearch = true # true (default) or false
+  flexSearch = false # true (default) or false
   searchExclKinds = [] # list of page kinds to exclude from search indexing (e.g. ["home", "taxonomy", "term"] )
   searchExclTypes = [] # list of content types to exclude from search indexing (e.g. ["blog", "docs", "legal", "contributors", "categories"])
   showSearch = [] # [] (all pages, default) or homepage (optionally) and list of sections (e.g. ["homepage", "blog", "guides"])
@@ -37,14 +50,14 @@ mainSections = ["wiki"]
   searchLimit = 99 # 0 (no limit, default) or natural number
 
   # Global alert
-  alert = false # false (default) or true
+  alert = true # false (default) or true
   alertDismissable = true # true (default) or false
 
   # Bootstrap
-  bootstrapJavascript = false # false (default) or true
+  bootstrapJavascript = true # false (default) or true
 
   # Nav
-  sectionNav = ["docs"] # ["docs"] (default) or list of sections (e.g. ["docs", "guides"])
+  sectionNav = ["docs"] # ["docs"] (default) or list of sections (e.g. ["docs"])
   toTopButton = false # false (default) or true
   breadcrumbTrail = false # false (default) or true
   headlineHash = true # true (default) or false
@@ -52,29 +65,32 @@ mainSections = ["wiki"]
 
   # Multilingual
   multilingualMode = true # false (default) or true
-  showMissingLanguages = true # whether or not to show untranslated languages in the language menu; true (default) or false
+  showMissingLanguages = false # whether or not to show untranslated languages in the language menu; true (default) or false
 
   # Versioning
   docsVersioning = false # false (default) or true
-  docsVersion = "0.7"
+  docsVersion = "1.0"
 
   # UX
-  headerBar = true # true (default) or false
-  backgroundDots = false # true (default) or false
+  headerBar = false # true (default) or false
+  backgroundDots = true # true (default) or false
 
   # Homepage
-  sectionFooter = false # false (default) or true
+  sectionFooter = true # false (default) or true
 
   # Blog
   relatedPosts = false # false (default) or true
   imageList = true # true (default) or false
   imageSingle = true # true (default) or false
 
+  # KaTex
+  katex = false
+
   # Repository
   editPage = false # false (default) or true
   lastMod = false # false (default) or true
   repoHost = "GitHub" # GitHub (default), Gitea, GitLab, Bitbucket, or BitbucketServer
-  docsRepo = "https://github.com/h-enk/doks"
+  docsRepo = "https://github.com/gethyas/getdoks.org"
   docsRepoBranch = "main" # main (default), master, or <branch name>
   docsRepoSubPath = "" # "" (none, default) or <sub path>
 
@@ -118,7 +134,7 @@ mainSections = ["wiki"]
 # SEO (@hyas/seo)
 [seo]
   [seo.title]
-    separator = " | "
+    separator = " — "
     suffix = ""
   [seo.favicons]
     sizes = []
@@ -129,7 +145,7 @@ mainSections = ["wiki"]
   [seo.schemas]
     type = "Organization" # Organization (default) or Person
     logo = "favicon-512x512.png" # Logo of Organization — favicon-512x512.png (default)
-    name = "Actocracy"
+    name = "Hyas" # Name of Organization or Person
     sameAs = [] # E.g. ["https://github.com/gethyas/hyas", "https://fosstodon.org/@hyas"]
     images = ["cover.png"] # ["cover.png"] (default)
     article = [] # Article sections
