@@ -1,7 +1,7 @@
 {
-  "name": "actocracy-wiki--website",
+  "name": "actocracy-wiki-website",
   "version": "1.0.0",
-  "description": "Act-o-cracy Wiki website",
+  "description": "Actocracy Wiki website",
   "author": "Actocracy",
   "scripts": {
     "dev": "exec-bin node_modules/.bin/hugo/hugo server --bind=0.0.0.0 --disableFastRender --baseURL=http://localhost --noHTTPCache",

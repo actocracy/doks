@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Actocracy"
+title: "Welcome to Actocracy Wiki"
 description: "Your ultimate guide to understanding and navigating the Actocracy Ecosystem."
 lead: "The Source of Truth for Actocracy Ecosystem"
 date: 2024-01-01T00:00:00+00:00
@@ -46,28 +46,6 @@ It's about fostering a community where quality and positive influence are paramo
 
 ## Get Started
 
-Explore the Knowledge Base to learn more of Actocracy Ecosystem:
+Explore the Knowledge Base to learn more of Actocracy Ecosystem, or proceed to Actocracy WebApp to dive into it right away!
 
-<a class="btn btn-primary btn-cta rounded-pill btn-lg my-3" href="/docs/basics/project-overview/" role="button">Read Act-o-cracy Wiki</a>
-
-Or proceed to Actocracy WebApp to dive into it right away!
-
-<a class="btn btn-info btn-cta rounded-pill btn-lg my-3 text-white" href="https://actocracy.xyz/i/1" target="_blank" role="button">Sign me in</a>
-
-### Connect with Us
-
-Dive deeper into the Actocracy ecosystem by joining our official communities:
-
-- **TG Chat (en):** [https://t.me/actocracy_en](https://t.me/actocracy_en)
-
-- **TG News Channel:** [https://t.me/actocracy](https://t.me/actocracy)
-
-- **Discord:** [https://discord.gg/AWXQk4s9ZJ](https://discord.gg/AWXQk4s9ZJ)
-
-- **X | Twitter:** [https://x.com/actocracy](https://x.com/actocracy)
-
-- **Instagram:** [https://www.instagram.com/actocracy/](https://www.instagram.com/actocracy/)
-
-- **TikTok:** [https://www.tiktok.com/@actocracy](https://www.tiktok.com/@actocracy)
-
-Join our communities to stay updated, share your experiences, and collaborate with fellow Actocrats. Together, we're building a more engaged and equitable world.
+<a class="btn btn-primary btn-cta rounded-pill btn-lg my-3" href="/docs/basics/project-overview/" role="button">Explore the Wiki</a> <a class="btn btn-info btn-cta rounded-pill btn-lg my-3 text-white" href="https://actocracy.xyz/i/1" target="_blank" role="button">Sign me in to Platform</a>

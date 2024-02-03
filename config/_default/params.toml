@@ -7,7 +7,7 @@ images = ["cover.png"]
 mainSections = ["docs"]
 
 # Global alert
-alertText = '<a class="alert-link stretched-link fw-normal" href="https://actocracy.com/docs/pitch.pdf" target="_blank">Check out and Share the Platform Pitchdeck. Token sale Unlocked!</a>'
+alertText = '<a class="alert-link stretched-link fw-normal" href="https://actocracy.com/docs/pitch.pdf" target="_blank">Token Sale Unlocked!</a>'
 
 # Footer
 footer = "Brought to you by <a class=\"text-muted\" href=\"https://gethyas.com/\">Hyas</a>"
@@ -76,7 +76,7 @@ footer = "Brought to you by <a class=\"text-muted\" href=\"https://gethyas.com/\
   backgroundDots = true # true (default) or false
 
   # Homepage
-  sectionFooter = true # false (default) or true
+  sectionFooter = false # false (default) or true
 
   # Blog
   relatedPosts = false # false (default) or true
