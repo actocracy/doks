@@ -1,11 +1,11 @@
 [[main]]
   name = "Knowledge Base"
-  url = "https://wiki.actocracy.com/wiki/getting-started/project-overview/"
+  url = "/wiki/getting-started/project-overview/"
   weight = 10
 
 [[main]]
   name = "DevBlog"
-  url = "https://wiki.actocracy.com/blog/"
+  url = "/blog/"
   weight = 30
 
 [[social]]
@@ -22,10 +22,10 @@
 
 [[footer]]
   name = "Privacy Policy"
-  url = "https://wiki.actocracy.com/privacy/"
+  url = "/privacy/"
   weight = 10
 
 [[footer]]
   name = "User Agreement"
-  url = "https://wiki.actocracy.com/agreement/"
+  url = "/agreement/"
   weight = 20

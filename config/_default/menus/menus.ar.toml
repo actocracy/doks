@@ -1,11 +1,11 @@
 [[main]]
   name = "قاعدة المعرفة"
-  url = "https://wiki.actocracy.com/ar/wiki/getting-started/project-overview/"
+  url = "/ar/wiki/getting-started/project-overview/"
   weight = 10
 
 [[main]]
   name = "مدونة البرمجة"
-  url = "https://wiki.actocracy.com/ar/blog/"
+  url = "/ar/blog/"
   weight = 30
 
 [[social]]
@@ -22,10 +22,10 @@
 
 [[footer]]
   name = "سياسة الخصوصية"
-  url = "https://wiki.actocracy.com/ar/privacy/"
+  url = "/ar/privacy/"
   weight = 10
 
 [[footer]]
   name = "اتفاقية المستخدم"
-  url = "https://wiki.actocracy.com/ar/agreement/"
+  url = "/ar/agreement/"
   weight = 20

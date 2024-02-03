@@ -1,11 +1,11 @@
 [[main]]
   name = "ज्ञान का आधार"
-  url = "https://wiki.actocracy.com/in/wiki/getting-started/project-overview/"
+  url = "/in/wiki/getting-started/project-overview/"
   weight = 10
 
 [[main]]
   name = "डेवब्लॉग"
-  url = "https://wiki.actocracy.com/in/blog/"
+  url = "/in/blog/"
   weight = 30
 
 [[social]]
@@ -22,10 +22,10 @@
 
 [[footer]]
   name = "गोपनीयता नीति"
-  url = "https://wiki.actocracy.com/in/privacy/"
+  url = "/in/privacy/"
   weight = 10
 
 [[footer]]
   name = "उपयोगकर्ता समझौता"
-  url = "https://wiki.actocracy.com/in/agreement/"
+  url = "/in/agreement/"
   weight = 20

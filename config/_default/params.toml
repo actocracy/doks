@@ -21,7 +21,7 @@ mainSections = ["wiki"]
 
   ## Button
   navBarButton = false # false (default) or true
-  navBarButtonurl = "https://wiki.actocracy.com/docs/prologue/introduction/"
+  navBarButtonurl = "/docs/prologue/introduction/"
   navBarButtonText = "Get started"
 
   # FlexSearch

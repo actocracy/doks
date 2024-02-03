@@ -1,5 +1,5 @@
 title = "Actocracy Wiki"
-baseurl = "https://wiki.actocracy.com/"
+baseurl = "/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true

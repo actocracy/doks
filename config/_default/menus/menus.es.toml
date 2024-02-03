@@ -1,11 +1,11 @@
 [[main]]
   name = "Base de Conhecimento"
-  url = "https://wiki.actocracy.com/es/wiki/getting-started/project-overview/"
+  url = "/es/wiki/getting-started/project-overview/"
   weight = 10
 
 [[main]]
   name = "DevBlog"
-  url = "https://wiki.actocracy.com/es/blog/"
+  url = "/es/blog/"
   weight = 30
 
 [[social]]
@@ -22,10 +22,10 @@
 
 [[footer]]
   name = "Política de Privacidade"
-  url = "https://wiki.actocracy.com/es/privacy/"
+  url = "/es/privacy/"
   weight = 10
 
 [[footer]]
   name = "Acordo do Usuário"
-  url = "https://wiki.actocracy.com/es/agreement/"
+  url = "/es/agreement/"
   weight = 20
