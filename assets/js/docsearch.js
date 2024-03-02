@@ -2,9 +2,9 @@ import docsearch from '@docsearch/js';
 
 docsearch({
   container: '#docsearch',
-  appId: 'KMWY81ZWS3',
-  indexName: 'getdoks',
-  apiKey: '691951526b11e1a708258e4e1a51adc7',
+  appId: 'MTOE0G431G',
+  indexName: 'actocracy',
+  apiKey: '8714d3644782d07c4c520529af01e331',
   insights: true,
 });
 

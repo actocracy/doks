@@ -27,8 +27,6 @@ We're thrilled to announce that the Alpha release of Actocracy is finally here! 
 
 The Alpha release of Actocracy introduces a suite of features designed to empower users and communities:
 
-- **Decentralized Governance Mechanisms**: Participate in the decision-making processes that shape the ecosystem.
-
 - **Promotion Platform Integration**: Engage with the initial functionalities of our Promotion Platform, including Twitter Quests and the 3-Level Affiliate Program.
 - **Actocracy Citizen Passport**: A unique opportunity to become a foundational member of the Actocracy community, with exclusive access to future features and benefits.
 

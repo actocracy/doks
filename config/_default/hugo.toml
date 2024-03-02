@@ -14,7 +14,7 @@ summarylength = 20 # 70 (default)
 
 # Multilingual
 defaultContentLanguage = "en"
-disableLanguages = ["es", "ru", "in", "cn", "tr", "ar"]
+disableLanguages = ["es", "in", "cn", "tr", "ar"]
 defaultContentLanguageInSubdir = false
 
 copyRight = "Copyright (c) 2022-2024 Actocracy"

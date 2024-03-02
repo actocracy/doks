@@ -1,0 +1,63 @@
+[404_text]
+other = "Страница не существует или была удалена."
+
+[404_title]
+other = "Страница не найдена :("
+
+[browse]
+other = "Browse"
+
+[chapter_next]
+other = "След"
+
+[chapter_previous]
+other = "Пред"
+
+[edit_page]
+other = "Edit this page on"
+
+[get_started]
+other = "Поехали!"
+
+[last_updated]
+other = "Last updated on"
+
+[minute]
+one = "минута"
+other = "минуты"
+
+[on_this_page]
+other = "На этой странице"
+
+[reading_time]
+other = "Время прочтения"
+
+[search_loading]
+other = "Загружаю историю поиска…"
+
+[search_no_recent]
+other = "История поиска пуста"
+
+[search_no_results]
+other = "Нет результатов"
+
+[search_placeholder]
+other = "Поиск"
+
+[search_title]
+other = "Поиск"
+
+[video_unsupported]
+other = "Your browser doesn't support embedded videos, but don't worry, you can <a href=\"{{ .RelPermalink }}\">download it</a> and watch it with your favorite video player!"
+
+[join_our_communities]
+other = "Официальные соцсети проекта"
+
+[tg_chat]
+other = "Телеграм чат"
+
+[news_channel]
+other = "Новостной канал"
+
+[discord_server]
+other = "Discord-сервер"

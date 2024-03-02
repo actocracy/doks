@@ -8,7 +8,7 @@ draft: false
 menu:
   docs:
     parent: ""
-    identifier: "environmental-impact-c766394c949d7276e59449b61b67d532"
+    identifier: "community-power-c766394c949d7276e59449b61b67d532"
 weight: 130
 toc: true
 seo:

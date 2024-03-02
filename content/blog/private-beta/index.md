@@ -36,9 +36,9 @@ During this Beta testing phase, we've implemented several significant updates to
 
 - **Contract Audits**: Our Token, Swap, and Internal Exchange contracts have undergone rigorous third-party audits, ensuring their integrity and security. You can review the audit results on PolygonScan:
 
-  - [Token Contract](https://polygonscan.com/token/0x1a5d8d590dda6c45e4469cd32a4c777079409711)
+  - [Token Contract](https://polygonscan.com/token/0x1a5d8d590dda6c45e4469cd32a4c777079409711#readContract)
 
-  - [Swap Contract](https://polygonscan.com/address/0xa9886211C31dc81FB1AD11Ee1CA8ad96F0Da0D8f)
+  - [Swap Contract](https://polygonscan.com/address/0xa9886211C31dc81FB1AD11Ee1CA8ad96F0Da0D8f#readContract)
 
   - [Internal Exchange Contract](https://polygonscan.com/address/0xBe0E49146A1C85185ba227194A787e7dC4F246A7#readContract)
 

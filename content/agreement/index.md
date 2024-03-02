@@ -58,7 +58,7 @@ This service contains hyperlinks to other websites that are not Actocracy.com or
 ## 4. Acknowledgement
 You acknowledge and agree that you may be exposed to content while using the services offered, which are inaccurate, offensive, indecent, or for any other reason can be perceived by you as a nuisance. You hereby waive any and all rights and remedies, you might be entitled in respect of such content over Actocracy.com.
 
-## 5. Responsibility
+## 5. Content
 Actocracy.com assumes no responsibility for displayed on this website and not from Actocracy posted content, which directly offends against these Terms Of Service or the law. This applies in particular to linked content from other sites and content that are displayed on Actocracy.com as a thumbnail or in a similar manner.
 
 ## 6. Liability

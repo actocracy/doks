@@ -6,6 +6,7 @@ date: 2024-01-01T00:00:00+00:00
 lastmod: 2024-01-01T17:00:00+00:00
 draft: false
 weight: 10
+lang: en
 seo:
  title: "Actocracy Wiki - Your Guide to the Decentralized Society"
  description: "Explore the comprehensive guide to the Actocracy Ecosystem, a revolutionary platform blending real-world interaction with digital governance."

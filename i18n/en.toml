@@ -49,3 +49,15 @@ other = "Search"
 
 [video_unsupported]
 other = "Your browser doesn't support embedded videos, but don't worry, you can <a href=\"{{ .RelPermalink }}\">download it</a> and watch it with your favorite video player!"
+
+[join_our_communities]
+other = "Join our Official Communities"
+
+[tg_chat]
+other = "Telegram Chat"
+
+[news_channel]
+other = "News Channel"
+
+[discord_server]
+other = "Discord Server"
