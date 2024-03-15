@@ -69,4 +69,4 @@ Here's a glimpse into our journey, categorized into Achieved, In Progress, and P
 
 Actocracy is on a path to revolutionize how communities interact, govern, and thrive in a mixed reality world. Our roadmap reflects our ambition to create a decentralized society where every action and interaction brings us closer to a more engaged, equitable, and empowered global community.
 
-##### Learn More: Explore the full <a href="https://actocracy.com/docs/publicdeck.pdf" target="_blank">Vision of Actocracy Ecosystem</a>.
+##### Learn More: Explore the full <a href="https://docs.actocracy.com/publicdeck.pdf" target="_blank">Vision of Actocracy Ecosystem</a>.

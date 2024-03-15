@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Расписание Вестинга"
-  url = "https://actocracy.com/docs/tokens.pdf"
+  url = "https://docs.actocracy.com/tokens.pdf"
   weight = 40
   identifier = "vesting-schedule"
 

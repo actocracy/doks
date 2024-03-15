@@ -7,7 +7,7 @@ images = ["cover.png"]
 mainSections = ["docs"]
 
 # Global alert
-alertText = '<a class="alert-link stretched-link fw-normal" href="https://actocracy.com/docs/pitch.pdf" target="_blank">Token Sale Unlocked!</a>'
+alertText = '<a class="alert-link stretched-link fw-normal" href="https://docs.actocracy.com/pitch.pdf" target="_blank">Token Sale Unlocked!</a>'
 
 # Footer
 footer = "Brought to you by <a class=\"text-muted\" href=\"https://gethyas.com/\">Hyas</a>"
