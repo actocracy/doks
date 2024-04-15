@@ -48,4 +48,4 @@ Actocracy приглашает вас принять участие в стан�
 
 Изучите нашу базу знаний, чтобы узнать больше об экосистеме Actocracy, или перейдите в веб-приложение Actocracy, чтобы сразу же погрузиться в нее!
 
-<a class="btn btn-primary btn-cta rounded-pill btn-lg my-3" href="/ru/docs/basics/обзор-проекта/" role="button">Изучить Вики</a> <a class="btn btn-info btn-cta rounded-pill btn-lg my-3 text-white" href="https://actocracy.xyz/i/1" target="_blank" role="button">Войти на Платформу</a>
+<a class="btn btn-primary btn-cta rounded-pill btn-lg my-3" href="/ru/docs/basics/обзор-проекта/" role="button">Изучить Вики</a> <a class="btn btn-info btn-cta rounded-pill btn-lg my-3 text-white" href="https://actocracy.com/i/1" target="_blank" role="button">Войти на Платформу</a>

@@ -5,7 +5,7 @@
   [en.params]
     languageISO = "EN"
     languageTag = "en-US"
-    footer = 'Dive into <a class="text-muted" href="https://actocracy.xyz/i/1" target="_blank">Actocracy Ecosystem</a>'
+    footer = 'Dive into <a class="text-muted" href="https://actocracy.com/i/1" target="_blank">Actocracy Ecosystem</a>'
 
 [cn]
   languageName = "中文"
@@ -23,7 +23,7 @@
   [es.params]
     languageISO = "ES"
     languageTag = "es-BR"
-    footer = 'Mergulhe no <a class="text-muted" href="https://actocracy.xyz/i/1" target="_blank">Ecossistema Actocracy</a>'
+    footer = 'Mergulhe no <a class="text-muted" href="https://actocracy.com/i/1" target="_blank">Ecossistema Actocracy</a>'
 
 [ru]
   languageName = "Русский"
@@ -33,7 +33,7 @@
     languageISO = "RU"
     languageTag = "ru-RU"
     description = "Источник знаний по Актократии"
-    footer = 'Вступайте в <a class="text-muted" href="https://actocracy.xyz/i/1" target="_blank">Актократию</a> прямо сейчас'
+    footer = 'Вступайте в <a class="text-muted" href="https://actocracy.com/i/1" target="_blank">Актократию</a> прямо сейчас'
 
 [ar]
   languageName = "اَلْعَرَبِيَّة"
@@ -42,7 +42,7 @@
   [ar.params]
     languageISO = "AR"
     languageTag = "ar-SA"
-    footer = 'انغمس في <a class="text-muted" href="https://actocracy.xyz/i/1" target="_blank">نظام Actocracy البيئي</a>'
+    footer = 'انغمس في <a class="text-muted" href="https://actocracy.com/i/1" target="_blank">نظام Actocracy البيئي</a>'
 
 [tr]
   languageName = "Türkçe"
@@ -51,7 +51,7 @@
   [tr.params]
     languageISO = "TR"
     languageTag = "tr-TR"
-    footer = '<a class="text-muted" href="https://actocracy.xyz/i/1" target="_blank">Actocracy Ekosistemine</a> Dalın'
+    footer = '<a class="text-muted" href="https://actocracy.com/i/1" target="_blank">Actocracy Ekosistemine</a> Dalın'
 
 [in]
   languageName = "हिंदी"
@@ -60,4 +60,4 @@
   [in.params]
     languageISO = "IN"
     languageTag = "hi-IN"
-    footer = '<a class="text-muted" href="https://actocracy.xyz/i/1" target="_blank">Actocracy पारिस्थितिकी तंत्र</a> में गोता लगाएँ'
+    footer = '<a class="text-muted" href="https://actocracy.com/i/1" target="_blank">Actocracy पारिस्थितिकी तंत्र</a> में गोता लगाएँ'

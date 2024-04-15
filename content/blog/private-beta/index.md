@@ -64,4 +64,4 @@ As we embark on this closed Beta testing phase, we extend a heartfelt invitation
 
 Stay tuned for our upcoming Beta release announcement, and prepare to be part of a movement that's set to redefine the landscape of community engagement and decentralized governance.
 
-[Check out the dApp right now!](https://actocracy.xyz/)
+[Check out the dApp right now!](https://actocracy.com/i/1)

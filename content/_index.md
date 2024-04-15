@@ -49,4 +49,4 @@ It's about fostering a community where quality and positive influence are paramo
 
 Explore the Knowledge Base to learn more of Actocracy Ecosystem, or proceed to Actocracy WebApp to dive into it right away!
 
-<a class="btn btn-primary btn-cta rounded-pill btn-lg my-3" href="/docs/basics/project-overview/" role="button">Explore the Wiki</a> <a class="btn btn-info btn-cta rounded-pill btn-lg my-3 text-white" href="https://actocracy.xyz/i/1" target="_blank" role="button">Sign me in to Platform</a>
+<a class="btn btn-primary btn-cta rounded-pill btn-lg my-3" href="/docs/basics/project-overview/" role="button">Explore the Wiki</a> <a class="btn btn-info btn-cta rounded-pill btn-lg my-3 text-white" href="https://actocracy.com/i/1" target="_blank" role="button">Sign me in to Platform</a>

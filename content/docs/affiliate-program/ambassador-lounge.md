@@ -28,9 +28,9 @@ As an Actocracy ambassador, you play a pivotal role in expanding our community b
 
 Becoming an Actocracy ambassador is straightforward and opens up a world of opportunities to engage with a like-minded community and earn rewards. Here’s how you can start:
 
-1. **Sign up to Actocracy**: Head over to <a href="https://actocracy.xyz/i/1" target="_blank">https://actocracy.xyz</a> and sign up any way you prefer to unlock the Affiliate Program.
+1. **Sign up to Actocracy**: Head over to <a href="https://actocracy.com/i/1" target="_blank">https://actocracy.com</a> and sign up any way you prefer to unlock the Affiliate Program.
 
-2. **Grow your Network**: Copy and Share your unique Referral liknk to grow your Affiliate Structure <a href="https://actocracy.xyz/ambassador" target="_blank">https://actocracy.xyz/ambassador</a>. Or simply share your Actoceacy Citizen Passport, any person who scanned the QR code would become your Referral.
+2. **Grow your Network**: Copy and Share your unique Referral liknk to grow your Affiliate Structure <a href="https://actocracy.com/ambassador" target="_blank">https://actocracy.com/ambassador</a>. Or simply share your Actoceacy Citizen Passport, any person who scanned the QR code would become your Referral.
 
 3. **Start Creating Content**: Produce engaging, informative content that highlights the benefits of the Actocracy ecosystem. Whether it's through social media posts, videos, blogs, or hosting community events, your content should aim to educate and onboard new users.
 
@@ -63,5 +63,5 @@ Your efforts in onboarding new users and creating compelling content directly co
 Join the Actocracy Affiliate Program today and start your journey as an ambassador. Create engaging content, grow your community, and help us onboard new users. It's that easy to begin earning passive income while empowering others.
 
 
-<a href="https://actocracy.xyz/i/1" target="_blank">Become Actocracy Ambassador Now!</a>
+<a href="https://actocracy.com/i/1" target="_blank">Become Actocracy Ambassador Now!</a>
 

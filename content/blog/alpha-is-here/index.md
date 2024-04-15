@@ -44,7 +44,7 @@ Becoming one of the first to explore the Actocracy Alpha release offers several 
 
 Ready to dive in? Here's how you can secure your Actocracy Citizen Passport and start exploring the Alpha release:
 
-1. 1. **Sign up to Actocracy**: Head over to <a href="https://actocracy.xyz/i/1" target="_blank">https://actocracy.xyz</a> and sign up any way you prefer to create your Citizen Passport.
+1. **Sign up to Actocracy**: Head over to <a href="https://actocracy.com/i/1" target="_blank">https://actocracy.com</a> and sign up any way you prefer to create your Citizen Passport.
 
 2. **Start Exploring**: Dive into the features of the Alpha release, participate in governance, and begin shaping the future of Actocracy.
 
